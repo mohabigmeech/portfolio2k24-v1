@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="36px" viewBox="0 0 44 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.566168446 0.335134827 34.2248032 0.335134827 34.2248032 29.4840024 0.566168446 29.4840024"></polygon>
+    </defs>
+    <g id="Uncle-J" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reseller" transform="translate(-431.000000, -583.000000)">
+            <g id="Triangle" transform="translate(433.000000, 585.000000)">
+                <g id="Group-12" transform="translate(7.405777, 3.840556)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-11"></g>
+                    <polygon id="Fill-10" fill="#ED3366" mask="url(#mask-2)" points="17.3954858 29.4842292 34.2248032 0.335134827 0.566168446 0.335134827"></polygon>
+                </g>
+                <polygon id="Stroke-13" stroke="#17103C" stroke-width="2.16000003" stroke-linecap="round" stroke-linejoin="round" points="16.8293174 29.1490944 33.6586347 2.63213472e-13 3.22302211e-13 2.63213472e-13"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
